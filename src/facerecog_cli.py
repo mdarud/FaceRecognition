@@ -1,0 +1,3 @@
+from facerecognition import *
+
+run()
